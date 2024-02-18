@@ -3,8 +3,7 @@
     "module": "index.ts",
     "type": "module",
     "scripts": {
-        "build": "clear && bun --watch run scripts/build.ts",
-        "cmd": "cmd.exe /c start cmd /k wsl --cd ~/software/dts_bug_repo"
+        "build": "clear && bun --watch run scripts/build.ts"
     },
     "devDependencies": {
         "@types/bun": "latest",
