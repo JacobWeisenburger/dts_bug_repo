@@ -1,0 +1,1 @@
+https://github.com/wobsoriano/bun-plugin-dts/issues/6
